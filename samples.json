@@ -1,0 +1,47 @@
+[
+    {
+      "variables": {
+        "meal_log": "Day 1\nBreakfast: Oatmeal with berries and nuts\nLunch: Large salad with grilled chicken and light vinaigrette\nDinner: Baked salmon with steamed broccoli and quinoa",
+        "patient_name": "Alex",
+        "patient_surname": "Johnson",
+        "goal": "Healthy eating"
+      },
+      "response": "{\n  \"feedback\": \"Excellent start, Alex! This meal log shows a great balance of nutrients and portion control.  Keep focusing on whole foods and lean protein sources.  Remember to stay hydrated throughout the day by drinking plenty of water.\"\n}"
+    },
+    {
+      "variables": {
+        "meal_log": "Day 2\nBreakfast: Scrambled eggs with spinach and whole-wheat toast\nLunch: Leftover salmon and quinoa\nDinner: Pizza (2 slices)",
+        "patient_name": "Alex",
+        "patient_surname": "Johnson",
+        "goal": "Healthy eating"
+      },
+      "response": "{\n  \"feedback\": \"Good job overall, Alex. While the pizza is understandable as an occasional treat, be mindful of portion sizes and consider healthier alternatives for more frequent meals.  Try whole-wheat crust and load up on veggies next time!\"\n}"
+    },
+    {
+      "variables": {
+        "meal_log": "Day 3\nBreakfast: Smoothie with protein powder, banana, and spinach\nLunch: Turkey sandwich on whole-wheat bread with lettuce and tomato\nDinner: Chicken stir-fry with brown rice and mixed vegetables",
+        "patient_name": "Maria",
+        "patient_surname": "Garcia",
+        "goal": "Weight management"
+      },
+      "response": "{\n  \"feedback\": \"Maria, this is a fantastic meal log!  The variety and balance are excellent for weight management. The smoothie is a quick and healthy way to start the day, and the stir-fry is packed with nutrients. Keep making these healthy choices!\"\n}"
+    },
+    {
+      "variables": {
+        "meal_log": "Day 1\nBreakfast: Skipped\nLunch: Fast food burger and fries\nDinner: Frozen microwave meal",
+        "patient_name": "David",
+        "patient_surname": "Lee",
+        "goal": "Improve diet"
+      },
+      "response": "{\n  \"feedback\": \"David, it's important to start each day with a nutritious breakfast. Skipping meals can lead to unhealthy cravings later on.  Let's focus on replacing fast food and processed meals with fresh, whole food options.  We can discuss some simple meal prep strategies to help you make healthier choices throughout the week.\"\n}"
+    },
+      {
+      "variables": {
+        "meal_log": "Day 2\nBreakfast: Yogurt with granola and fruit\nLunch: Salad with grilled fish\nDinner: Lentil soup with whole wheat bread",
+        "patient_name": "David",
+        "patient_surname": "Lee",
+        "goal": "Improve diet"
+      },
+      "response": "{\n  \"feedback\": \"David, this is a great improvement! Including a healthy breakfast and choosing nutritious options for lunch and dinner are positive steps. Keep up the good work and continue to focus on whole foods and balanced meals.\"\n}"
+    }
+  ]
