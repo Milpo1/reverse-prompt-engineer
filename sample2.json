@@ -1,0 +1,309 @@
+[
+    {
+      "variables": {
+        "customer_name": "Sarah",
+        "order_number": "12345",
+        "issue": "Item arrived damaged",
+        "product_name": "Wireless Headphones"
+      },
+      "response": "Dear Sarah,\n\nThank you for contacting ShopEasy support. We're sorry to hear that your Wireless Headphones (Order #12345) arrived damaged. We understand this is frustrating, and we'll do our best to resolve it quickly. Could you please provide us with a photo of the damaged item and the packaging? Once we receive that, we can process a replacement or refund for you."
+    },
+    {
+      "variables": {
+        "customer_name": "John",
+        "order_number": "67890",
+        "issue": "Wrong item received",
+        "product_name": "Blue T-Shirt (Size L)"
+      },
+      "response": "Hello John,\n\nThanks for reaching out to ShopEasy regarding order #67890. We apologize that you received the wrong item instead of the Blue T-Shirt (Size L) you ordered. To help us fix this, could you please let us know which item you received instead? We'll arrange for the correct item to be shipped to you and provide instructions on how to return the incorrect one."
+    },
+    {
+      "variables": {
+        "customer_name": "Emily",
+        "order_number": "24680",
+        "issue": "Missing item from order",
+        "product_name": "Yoga Mat"
+      },
+      "response": "Hi Emily,\n\nWe're sorry to hear that the Yoga Mat is missing from your ShopEasy order #24680. This is certainly not the experience we want you to have. We'll investigate this with our warehouse immediately. In the meantime, can you please confirm the other items you received in this order? We'll keep you updated on the status of your missing Yoga Mat and ensure it's delivered to you as soon as possible."
+    },
+    {
+      "variables": {
+        "customer_name": "David",
+        "order_number": "13579",
+        "issue": "Delayed delivery",
+        "product_name": "Smart Watch"
+      },
+      "response": "Dear David,\n\nThank you for contacting ShopEasy customer support about the delayed delivery of your Smart Watch (Order #13579). We understand your concern, and we apologize for any inconvenience this may cause. We are currently experiencing a slight delay in our shipping network. We are working hard to get your order to you as soon as possible. You can track your order's updated status using this link: [Tracking Link]. We appreciate your patience."
+    },
+    {
+      "variables": {
+        "customer_name": "Jessica",
+        "order_number": "97531",
+        "issue": "Difficult to assemble the product",
+        "product_name": "Bookshelf"
+      },
+      "response": "Hello Jessica,\n\nWe understand that you are having difficulties assembling the Bookshelf from your order #97531. We're here to help!  You can find detailed assembly instructions and a video tutorial on our website at [Link to Instructions]. If you continue to have trouble, please don't hesitate to contact us again, and we can schedule a call with one of our product specialists to guide you through the process."
+    },
+    {
+      "variables": {
+        "customer_name": "Michael",
+        "order_number": "86420",
+        "issue": "Want to return item",
+        "product_name": "Running Shoes"
+      },
+      "response": "Hi Michael,\n\nThanks for contacting ShopEasy about returning the Running Shoes from order #86420. We're happy to help with that. Please visit our Returns Center at [Link to Returns Center] to initiate the return process. You'll need your order number and email address. Once your return is authorized, you'll receive a prepaid shipping label and instructions on how to package your item."
+    },
+    {
+      "variables": {
+        "customer_name": "Ashley",
+        "order_number": "75309",
+        "issue": "Change shipping address",
+        "product_name": "Coffee Maker"
+      },
+      "response": "Dear Ashley,\n\nWe received your request to change the shipping address for your Coffee Maker (Order #75309). We can help with this if the order has not yet been shipped. Please provide the new shipping address as soon as possible. We'll do our best to update it, but please note that changes may not be possible if the order is already in transit. We'll confirm the status with you shortly."
+    },
+    {
+      "variables": {
+        "customer_name": "Kevin",
+        "order_number": "10293",
+        "issue": "Billing question",
+        "product_name": "Bluetooth Speaker"
+      },
+      "response": "Hello Kevin,\n\nThank you for your inquiry regarding the billing for your Bluetooth Speaker (Order #10293). We're happy to clarify any questions you have. Could you please provide more details about your specific concern? For example, are you inquiring about a specific charge, payment method, or invoice? This will help us assist you more effectively."
+    },
+    {
+      "variables": {
+        "customer_name": "Sophia",
+        "order_number": "48576",
+        "issue": "Product not as described",
+        "product_name": "Leather Handbag"
+      },
+      "response": "Hi Sophia,\n\nWe're sorry to hear that the Leather Handbag (Order #48576) did not meet your expectations and was not as described. We want you to be completely satisfied with your purchase. Could you please provide more details on how the product differs from its description on our website? Photos would be helpful as well. This information will help us understand the issue better and offer an appropriate solution, such as a replacement or refund."
+    },
+    {
+      "variables": {
+        "customer_name": "Brian",
+        "order_number": "63912",
+        "issue": "Promo code not working",
+        "product_name": "Laptop Stand"
+      },
+      "response": "Dear Brian,\n\nWe understand you're having trouble applying a promo code to your order #63912 for the Laptop Stand. We're here to help! First, please double-check that the promo code has been entered correctly and is still valid. Also, please ensure that the items in your cart meet the terms and conditions of the promotion. If you're still having issues, please provide us with the promo code you're trying to use, and we'll investigate further."
+    },
+    {
+      "variables": {
+        "customer_name": "Olivia",
+        "order_number": "92837",
+        "issue": "Cancel order",
+        "product_name": "Winter Coat"
+      },
+      "response": "Hello Olivia,\n\nWe received your request to cancel your order #92837 for the Winter Coat. We can assist you with this if the order has not yet been shipped. We'll check the status of your order and let you know if cancellation is possible. If it has already shipped, you can initiate a return once you receive it. You can find our return policy and instructions here: [Link to Returns Policy]"
+    },
+    {
+      "variables": {
+        "customer_name": "Daniel",
+        "order_number": "37465",
+        "issue": "Received duplicate order",
+        "product_name": "Board Game"
+      },
+      "response": "Hi Daniel,\n\nWe're very sorry to hear that you received a duplicate order of the Board Game (Order #37465). We understand this is inconvenient, and we'll resolve it promptly. Please keep only one of the board games, and we'll provide you with a prepaid shipping label to return the duplicate. We'll also issue a full refund for the extra item once the return is processed. We apologize for this error."
+    },
+    {
+        "variables": {
+            "customer_name": "Isabella",
+            "order_number": "55512",
+            "issue": "Never received order confirmation",
+            "product_name": "Fitness Tracker"
+        },
+        "response": "Dear Isabella,\n\nThank you for contacting us. We understand that you haven't received an order confirmation for your recent purchase of a Fitness Tracker (Order #55512). First, please check your spam or junk folder, as sometimes our emails can end up there. If it's not there, it's possible there was a typo in the email address provided during checkout. Please confirm the email address you used for the order, and we'll resend the confirmation. We'll also verify that your order is in our system."
+    },
+    {
+      "variables": {
+        "customer_name": "Ethan",
+        "order_number": "71934",
+        "issue": "Item arrived with strange odor",
+        "product_name": "Set of Scented Candles"
+      },
+      "response": "Hello Ethan,\n\nWe're sorry to hear that your Set of Scented Candles (Order #71934) arrived with an unusual odor. That's certainly not the aromatic experience we intended! To help us understand the situation better, could you describe the smell? Is it a manufacturing issue, or perhaps something else? We'll do our best to identify the cause and find a suitable solution, such as sending a replacement set with the correct fragrance."
+    },
+    {
+      "variables": {
+        "customer_name": "Chloe",
+        "order_number": "28501",
+        "issue": "Product doesn't match color shown online",
+        "product_name": "Emerald Green Dress"
+      },
+      "response": "Hi Chloe,\n\nThanks for reaching out regarding the color discrepancy with your Emerald Green Dress (Order #28501). We understand that color accuracy is important, especially when shopping online. Slight variations can occur due to differences in screen settings and lighting. However, we want to ensure you're happy. Could you send us a photo of the dress in natural lighting? We'll compare it to our product images and work with you to find a resolution, whether it's an exchange for a different shade or another solution."
+    },
+    {
+      "variables": {
+        "customer_name": "Liam",
+        "order_number": "43867",
+        "issue": "Stuck zipper",
+        "product_name": "Backpack"
+      },
+      "response": "Dear Liam,\n\nWe're sorry to hear you're experiencing a stuck zipper on your new Backpack (Order #43867). That can be quite frustrating!  Before we process a replacement, there are a few tricks you can try. Sometimes, rubbing a bar of soap or a graphite pencil along the zipper teeth can help lubricate it. If that doesn't work, please let us know, and we'll gladly arrange for a replacement or another solution. We appreciate your understanding!"
+    },
+    {
+      "variables": {
+        "customer_name": "Ava",
+        "order_number": "80245",
+        "issue": "Missing instruction manual",
+        "product_name": "Portable Blender"
+      },
+      "response": "Hello Ava,\n\nWe apologize that the instruction manual for your Portable Blender (Order #80245) was missing. We're happy to provide you with the information you need! You can download a digital copy of the manual here: [Link to Manual]. We also have a helpful video tutorial on our website demonstrating its use: [Link to Video]. If you have any further questions, feel free to ask!"
+    },
+    {
+      "variables": {
+        "customer_name": "Noah",
+        "order_number": "16923",
+        "issue": "Item smaller than expected",
+        "product_name": "Ceramic Vase"
+      },
+      "response": "Hi Noah,\n\nThanks for contacting us about the size of the Ceramic Vase (Order #16923). We understand it appeared larger in the pictures. We strive for accurate product representation, and we provide dimensions in the product description. Could you please double-check the listed dimensions against the vase you received? If there's a discrepancy, please let us know. Otherwise, if you're still unsatisfied, we can process a return for you."
+    },
+    {
+        "variables": {
+            "customer_name": "Mia",
+            "order_number": "67198",
+            "issue": "Wants to commend a helpful delivery driver",
+            "product_name": "Microwave Oven"
+        },
+        "response": "Dear Mia,\n\nThank you for taking the time to share your positive experience with our delivery driver regarding your Microwave Oven (Order #67198). We're thrilled to hear they went above and beyond! We truly value our delivery partners and appreciate you recognizing their efforts. We'll be sure to pass along your kind words to the driver and their supervisor. We hope you enjoy your new microwave!"
+    },
+    {
+        "variables": {
+            "customer_name": "Jackson",
+            "order_number": "33487",
+            "issue": "Package left in insecure location",
+            "product_name": "Noise-Cancelling Headphones"
+        },
+        "response": "Hello Jackson,\n\nWe're sorry to hear that your package containing the Noise-Cancelling Headphones (Order #33487) was left in an insecure location. We understand your concern, and we take this matter seriously. We provide delivery instructions to our carriers, and this is not the standard we expect. Could you please provide more details about where the package was left? We'll address this with the delivery carrier to prevent similar issues in the future. We're glad the package was retrieved, but we'll monitor the situation."
+    },
+        {
+        "variables":{
+            "customer_name": "Amelia",
+            "order_number": "99012",
+            "issue": "Asking for care instructions",
+            "product_name": "Silk Scarf"
+        },
+        "response": "Dear Amelia,\n\nThank you for your inquiry about caring for your beautiful Silk Scarf (Order #99012). We're happy to provide you with some tips! We recommend dry cleaning your silk scarf to maintain its delicate texture and vibrant color. If hand washing, use cold water and a mild detergent specifically designed for silk. Avoid wringing or twisting the scarf. Instead, gently roll it in a towel to remove excess water and lay it flat to dry, away from direct sunlight. Following these care instructions will help ensure your scarf remains in excellent condition for a long time."
+
+    },
+    {
+      "variables": {
+        "customer_name": "Sarah",
+        "order_number": "12345",
+        "issue": "Item arrived damaged",
+        "product_name": "Wireless Headphones"
+      },
+      "response": "Hi Sarah,\n\nSo sorry to hear your Wireless Headphones (Order #12345) arrived damaged! That's a real bummer. Could you please send us a pic of the damage, including the packaging? Once we get that, we can totally get a replacement or refund sorted out for you."
+    },
+    {
+      "variables": {
+        "customer_name": "John",
+        "order_number": "67890",
+        "issue": "Wrong item received",
+        "product_name": "Blue T-Shirt (Size L)"
+      },
+      "response": "Hello John,\n\nThank you for contacting ShopEasy regarding order #67890. We sincerely apologize that you received the incorrect item. To rectify this, kindly let us know what you received instead of the Blue T-Shirt (Size L). We will then arrange for the correct item to be shipped to you and provide details on how to return the wrong one. We appreciate your patience."
+    },
+    {
+      "variables": {
+        "customer_name": "Emily",
+        "order_number": "24680",
+        "issue": "Missing item from order",
+        "product_name": "Yoga Mat"
+      },
+      "response": "Hi Emily,\n\nOh no!  We're really sorry that the Yoga Mat is missing from your order (#24680). We'll check with our warehouse team right away to see what happened. Can you please confirm what else you received in that order?  We'll keep you updated, and make sure that Yoga Mat gets to you ASAP!"
+    },
+    {
+      "variables": {
+        "customer_name": "David",
+        "order_number": "13579",
+        "issue": "Delayed delivery",
+        "product_name": "Smart Watch"
+      },
+      "response": "Dear David,\n\nWe understand your concern regarding the delayed delivery of your Smart Watch (Order #13579). Unfortunately, there's a bit of a backlog in our shipping network right now, causing some delays. We are working hard to get your order to you. You can track your order here: [Tracking Link]. Thanks for your patience!"
+    },
+    {
+      "variables": {
+        "customer_name": "Jessica",
+        "order_number": "97531",
+        "issue": "Difficult to assemble the product",
+        "product_name": "Bookshelf"
+      },
+      "response": "Hi Jessica,\n\nWe understand you're having some trouble putting together the Bookshelf from order #97531. You can find step-by-step instructions and a video on our site at [Link to Instructions]. If you're still having trouble after checking those out, just let us know, and we can try to get someone to help you out over the phone."
+    },
+    {
+      "variables": {
+        "customer_name": "Michael",
+        "order_number": "86420",
+        "issue": "Want to return item",
+        "product_name": "Running Shoes"
+      },
+      "response": "Hey Michael,\n\nNo problem! Returning the Running Shoes from order #86420 is easy. Just head over to our Returns Center [Link to Returns Center] to get started. You'll need your order number and email. You'll get a prepaid shipping label and all that good stuff."
+    },
+    {
+      "variables": {
+        "customer_name": "Ashley",
+        "order_number": "75309",
+        "issue": "Change shipping address",
+        "product_name": "Coffee Maker"
+      },
+      "response": "Dear Ashley,\n\nWe received your request to change the shipping address for your Coffee Maker (Order #75309). If the order hasn't shipped yet, we can definitely update it for you. Please provide the new address ASAP. We'll do our best, but if it's already on its way, we might not be able to change it. We will confirm the status with you."
+    },
+    {
+      "variables": {
+        "customer_name": "Kevin",
+        "order_number": "10293",
+        "issue": "Billing question",
+        "product_name": "Bluetooth Speaker"
+      },
+      "response": "Hello Kevin,\n\nThanks for reaching out about the billing for your Bluetooth Speaker (Order #10293). We're happy to help. To best assist you, could you please be more specific about your question?  For instance, are you asking about a charge, payment method used, or your invoice? Let us know!"
+    },
+    {
+      "variables": {
+        "customer_name": "Sophia",
+        "order_number": "48576",
+        "issue": "Product not as described",
+        "product_name": "Leather Handbag"
+      },
+      "response": "Hi Sophia,\n\nWe're sorry the Leather Handbag (Order #48576) wasn't what you expected. We try our best to describe things accurately! If you could, please tell us a bit more about what's different. Pictures are always helpful. That way, we can figure out the best way to help, like maybe an exchange or refund. "
+    },
+    {
+      "variables": {
+        "customer_name": "Brian",
+        "order_number": "63912",
+        "issue": "Promo code not working",
+        "product_name": "Laptop Stand"
+      },
+      "response": "Hi Brian,\n\nHaving trouble with a promo code on order #63912 for the Laptop Stand?  Hmm, let's see. First, double-check that the code is typed in correctly and hasn't expired. Also, make sure the items in your cart meet the requirements of the promo. Still no luck?  Let us know the code, and we'll take a look!"
+    },
+    {
+      "variables": {
+        "customer_name": "Olivia",
+        "order_number": "92837",
+        "issue": "Cancel order",
+        "product_name": "Winter Coat"
+      },
+      "response": "Hello Olivia,\n\nWe got your request to cancel order #92837 for the Winter Coat. We'll try our best! If it hasn't shipped yet, we can cancel it. If it has, you can always return it after you receive it. Check out our return policy here: [Link to Returns Policy]"
+    },
+    {
+      "variables": {
+        "customer_name": "Daniel",
+        "order_number": "37465",
+        "issue": "Received duplicate order",
+        "product_name": "Board Game"
+      },
+      "response": "Hi Daniel,\n\nWhoa, two Board Games (Order #37465)?! Sorry about that!  Just keep one, and we'll send you a prepaid label to send the other one back. We'll refund you for the extra one once we get it back. Sorry for the mix-up!"
+    },
+    {
+        "variables": {
+            "customer_name": "Isabella",
+            "order_number": "55512",
+            "issue": "Never received order confirmation",
+            "product_name": "Fitness Tracker"
+        },
+        "response": "Hi Isabella,\n\nNo order confirmation for your Fitness Tracker (Order #55512)? Let's check on that. First, have you looked in your spam/junk folder? Sometimes our emails end up there. If not, maybe there was a typo in your email address. Can you confirm the email you used? We'll resend the confirmation and make sure your order is in our system."
+    }
+]
